@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    font-size: 100%;
+    color: #333;
+    font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Nanum Myeongjo', serif;
+text-align: center;
+}
+header{
+    font-family: 'Lucida Calligraphy', cursive;
+    padding-top: 30px;
+    padding-bottom: 45px;
+    
+}
+.bg img{
+    width: 100%;
+}
+header span:first-child{
+    font-size: 22px;
+    display: block;
+    margin-left: 4em;
+    color: #F2C9D1;
+}
+header span:last-child{
+    font-size: 55px;
+    color: #F2C9D1;
+}
+#visual{
+
+}
+#visual .bxslider{
+    width: 100%;
+}
+#visual .bxslider img{
+    width: 100%;
+}
+.bx-wrapper{
+    border: none !important;
+}
+
+#intro .info{
+    padding-bottom: 50px;
+}
+#intro .info h2{
+    margin-bottom: 1em;
+}
+#intro .info h2 span{
+    color: #F2C9D1;
+}
+#intro .address{
+    background: #F2C9D1;
+    padding: 45px;
+    padding-bottom: 45px;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 16px;
+}
+#intro .address span{
+    color: #fff;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+#address{
+    padding-top: 45px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+#address h2{
+    font-size: 20px;
+    margin-bottom: 2em;
+    padding-bottom: 1em;
+    border-bottom: 2px solid rgba(241, 201, 209, 0.8)
+}
+#address .addr{
+    margin-bottom: 45px;
+}
+#address .addr li{
+    margin-bottom: 1em;
+    line-height: 1.5em;
+}
+#address .addr .metro img{
+    width: 18px;
+    vertical-align: middle;
+}
+#address .addr .bus img{
+    width: 18px;
+    vertical-align: middle;
+}
+#address .addr .metro span{
+    color: #93278F;
+}
+#call{
+    padding-top: 45px;
+    padding-bottom: 45px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+#call h2{
+    margin-bottom: 2em;
+    font-size: 1.2em;
+}
+#call a img{
+    width: 24px;
+}
+#call a:first-child img{
+    margin-right: 1.6em;
+}
+#call a:last-child img{
+    margin-left: 1.6em;
+}
+footer{
+    font-family: 'Nanum Gothic', sans-serif;
+    padding: 1.2em;
+    line-height: 1.5em;
+    color: #F2C9D1;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 2em;
+}
+footer a{
+    color: #F2C9D1;
